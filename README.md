@@ -28,4 +28,4 @@ Support TechHire in building competitive pay structures for top data science tal
 - `Data Science Salary Analysis Insights and Predictive Modeling for Competitive Hiring Strategies.pdf` – Final report
 
 ## 📄 Report
-[📥 View Full Report (PDF)](https://github.com/domflan/domflan/raw/main/Data%20Science%20Salary%20Analysis%20Insights%20and%20Predictive%20Modeling%20for%20Competitive%20Hiring%20Strategies.pdf)
+[📥 View Full Report (PDF)](https://github.com/domflan/salary-prediction-project/raw/main/Data%20Science%20Salary%20Analysis%20Insights%20and%20Predictive%20Modeling%20for%20Competitive%20Hiring%20Strategies.pdf)
